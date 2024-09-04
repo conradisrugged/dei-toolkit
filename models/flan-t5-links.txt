@@ -1,0 +1,49 @@
+Flan T5 Base
+https://huggingface.co/google/flan-t5-base/resolve/main/config.json
+https://huggingface.co/google/flan-t5-base/resolve/main/generation_config.json
+https://huggingface.co/google/flan-t5-base/resolve/main/pytorch_model.bin
+https://huggingface.co/google/flan-t5-base/resolve/main/special_tokens_map.json
+https://huggingface.co/google/flan-t5-base/resolve/main/spiece.model
+https://huggingface.co/google/flan-t5-base/resolve/main/tokenizer.json
+https://huggingface.co/google/flan-t5-base/resolve/main/tokenizer_config.json
+
+Flan T5 Small
+https://huggingface.co/google/flan-t5-small/resolve/main/config.json
+https://huggingface.co/google/flan-t5-small/resolve/main/generation_config.json
+https://huggingface.co/google/flan-t5-small/resolve/main/pytorch_model.bin
+https://huggingface.co/google/flan-t5-small/resolve/main/special_tokens_map.json
+https://huggingface.co/google/flan-t5-small/resolve/main/spiece.model
+https://huggingface.co/google/flan-t5-small/resolve/main/tokenizer.json
+https://huggingface.co/google/flan-t5-small/resolve/main/tokenizer_config.json
+
+Flan T5 Large
+https://huggingface.co/google/flan-t5-large/resolve/main/config.json
+https://huggingface.co/google/flan-t5-large/resolve/main/generation_config.json
+https://huggingface.co/google/flan-t5-large/resolve/main/pytorch_model.bin
+https://huggingface.co/google/flan-t5-large/resolve/main/special_tokens_map.json
+https://huggingface.co/google/flan-t5-large/resolve/main/spiece.model
+https://huggingface.co/google/flan-t5-large/resolve/main/tokenizer.json
+https://huggingface.co/google/flan-t5-large/resolve/main/tokenizer_config.json
+
+Flan T5 XL
+https://huggingface.co/google/flan-t5-xl/resolve/main/config.json
+https://huggingface.co/google/flan-t5-xl/resolve/main/generation_config.json
+https://huggingface.co/google/flan-t5-xl/resolve/main/pytorch_model-00001-of-00002.bin
+https://huggingface.co/google/flan-t5-xl/resolve/main/pytorch_model-00002-of-00002.bin
+https://huggingface.co/google/flan-t5-xl/resolve/main/special_tokens_map.json
+https://huggingface.co/google/flan-t5-xl/resolve/main/spiece.model
+https://huggingface.co/google/flan-t5-xl/resolve/main/tokenizer.json
+https://huggingface.co/google/flan-t5-xl/resolve/main/tokenizer_config.json
+
+Flan T5 XXL
+https://huggingface.co/google/flan-t5-xxl/resolve/main/config.json
+https://huggingface.co/google/flan-t5-xxl/resolve/main/generation_config.json
+https://huggingface.co/google/flan-t5-xxl/resolve/main/pytorch_model-00001-of-00005.bin
+https://huggingface.co/google/flan-t5-xxl/resolve/main/pytorch_model-00002-of-00005.bin
+https://huggingface.co/google/flan-t5-xxl/resolve/main/pytorch_model-00003-of-00005.bin
+https://huggingface.co/google/flan-t5-xxl/resolve/main/pytorch_model-00004-of-00005.bin
+https://huggingface.co/google/flan-t5-xxl/resolve/main/pytorch_model-00005-of-00005.bin
+https://huggingface.co/google/flan-t5-xxl/resolve/main/special_tokens_map.json
+https://huggingface.co/google/flan-t5-xxl/resolve/main/spiece.model
+https://huggingface.co/google/flan-t5-xxl/resolve/main/tokenizer.json
+https://huggingface.co/google/flan-t5-xxl/resolve/main/tokenizer_config.json
