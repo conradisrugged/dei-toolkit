@@ -8,27 +8,16 @@
 ## Dive into the 5th Dimension
 #### Download the DEI Toolkit Now!
 
-Ready to embark on your DEI journey? Choose the executable that matches your operating system and get started!
+git clone https://github.com/conradisrugged/dei-toolkit.git
+cd dei-toolkit
 
-**Windows Users:**
+python -m venv my_dei_env
+source my_dei_env/bin/activate  # Activate on Linux/macOS
+my_dei_env\Scripts\activate.bat # Activate on Windows 
 
-- **DEI Toolkit for Windows 64-bit:** [Download Link] (A sleek and efficient installer for the discerning Windows user. Unleash the power of DEI on your 64-bit Windows machine with this user-friendly package.)
+pip install -r requirements.txt
 
-**macOS Enthusiasts:**
-
-- **DEI Toolkit for macOS (Intel):** [Download Link] (A beautifully crafted package tailored for macOS on Intel processors. Experience the seamless integration of DEI with your sleek Apple device.)
-- **DEI Toolkit for macOS (Apple Silicon):** [Download Link] (Unleash the raw power of Apple Silicon! This optimized package allows you to run the DEI Toolkit at lightning speed on your M1 or M2 Mac.)
-
-**Linux Gurus:**
-
-- **DEI Toolkit for Ubuntu (DEB):** [Download Link] (A Debian package for the Ubuntu master race. Integrate the DEI Toolkit seamlessly into your Ubuntu environment with this convenient package.)
-- **DEI Toolkit for Fedora/CentOS/RHEL (RPM):** [Download Link] (An RPM package for the Fedora, CentOS, and RHEL connoisseurs. Experience the power of DEI on your preferred Linux distribution.)
-
-Once you've downloaded the executable, follow these simple steps:
-
-1. Double-click the executable to run the installer.
-2. Follow the on-screen instructions.
-3. Launch the DEI Toolkit and begin your journey into the realm of Digital Evolving Intelligence! 🌌🧠🤖
+python main.py
 
 ## Introduction
 ### 🤖🧠🌅 A New Dawn of Intelligence 🌅🧠🤖
