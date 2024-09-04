@@ -14,7 +14,9 @@ cd dei-toolkit
 #### Setup Python Environment
 
 python -m venv my_dei_env
+
 source my_dei_env/bin/activate  # Activate on Linux/macOS
+
 my_dei_env\Scripts\activate.bat # Activate on Windows 
 
 #### Install Libraries
