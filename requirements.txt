@@ -1,0 +1,6 @@
+torch
+transformers
+tkinter
+psutil
+pandas
+requests
